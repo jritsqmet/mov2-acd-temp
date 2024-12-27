@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "app-01",
+    "slug": "app-01",
+    "version": "1.0.0",
+    "orientation": "all",
+    "icon": "./assets/images/brazo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/brazo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#666"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.app01"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/brazo.png",
+        "backgroundColor": "#666"
+      },
+      "package": "com.anonymous.app01"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
